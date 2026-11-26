@@ -1,1 +1,1 @@
-# amc_git_demo
+# welcome to git collaboration
